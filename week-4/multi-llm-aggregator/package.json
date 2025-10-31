@@ -1,0 +1,9 @@
+{
+  "name": "multi-llm-aggregator",
+  "version": "1.0.0",
+  "description": "Multi-provider LLM chat UI with Node proxy",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
